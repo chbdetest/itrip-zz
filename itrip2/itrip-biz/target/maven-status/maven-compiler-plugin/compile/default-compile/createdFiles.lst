@@ -1,0 +1,10 @@
+cn\itrip\service\areadic\ItripAreaDicServiceImpl.class
+cn\itrip\service\userlinkuser\ItripUserLinkUserServiceImpl.class
+cn\itrip\service\user\ItripUserService.class
+cn\itrip\service\userlinkuser\ItripUserLinkUserService.class
+cn\itrip\controller\HotelController.class
+cn\itrip\service\user\ItripUserServiceImpl.class
+cn\itrip\service\areadic\ItripAreaDicService.class
+cn\itrip\service\labeldic\ItripLabelDicServiceImpl.class
+cn\itrip\controller\UserInfoController.class
+cn\itrip\service\labeldic\ItripLabelDicService.class

@@ -1,0 +1,4 @@
+cn\itrip\dao\user\ItripUserMapper.class
+cn\itrip\dao\labeldic\ItripLabelDicMapper.class
+cn\itrip\dao\areadic\ItripAreaDicMapper.class
+cn\itrip\dao\userlinkuser\ItripUserLinkUserMapper.class
