@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: cn.itrip.controller.user.TestUserInfoController
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.309 s <<< FAILURE! - in cn.itrip.controller.user.TestUserInfoController
+queryUserLinkUser(cn.itrip.controller.user.TestUserInfoController)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.NoClassDefFoundError: javax/servlet/SessionCookieConfig
+Caused by: java.lang.ClassNotFoundException: javax.servlet.SessionCookieConfig
+
